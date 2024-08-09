@@ -1,22 +1,16 @@
 # Automatizacion E2E  
 
-COMO LO EJECUTAMOS  
-
-# Guía para Ejecutar la Prueba E2E en Sauce Demo
-
 ## Requisitos Previos
 
 1. **Instalar Python**:
-   - Asegúrate de tener Python 3.6 o superior instalado en mi sistema.
-   - Lo descargo desde [python.org](https://www.python.org/downloads/).
+- Nos aseguramos de tener Python 3.6 o superior instalado en mi sistema.
+- O lo descargamos desde [python.org](https://www.python.org/downloads/).
 
 2. **Instalar ChromeDriver**:
-   - Asegúrate de tener ChromeDriver compatible con la versión de Google Chrome que tengo.
-   - Lo descargo desde [ChromeDriver Downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+En este caso ChromeDriver ya viene por defecto en Chrome solo debemos instalar Google Chrome
 
-3. **Instalar PyCharm**:
-   - PyCharm es el IDE que utilizo para programar en Python.
-   - Lo descargo desde [JetBrains PyCharm](https://www.jetbrains.com/pycharm/download/).
+4. **Instalar PyCharm**:
+-Lo descaramoso desde [JetBrains PyCharm](https://www.jetbrains.com/pycharm/download/).
 
 ## Pasos para Ejecutar la Prueba
 
